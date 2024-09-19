@@ -14,6 +14,15 @@
   
 --- 
 
+## My Github Stats 📈
+<div align="center">
+    <a href="https://beacons.ai/JuanSantosVale">
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuanSantosVale&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="JuanSantosVale github stats" style="width: 50%;"/>
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanSantosVale&title_color=eeeeee&layout=compact&langs_count=16&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="JuanSantosVale github stats" style="width: 40%;"/> 
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSantosVale&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="JuanSantosVale github stats" style="width: 100%;"/>
+</div>
+
+
 ## Some Projects 🗃
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=APIEquipe&repo=EquipeTechEmpireAPI&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true)](https://github.com/APIEquipe/EquipeTechEmpireAPI)
 
